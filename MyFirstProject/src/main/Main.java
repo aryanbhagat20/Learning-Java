@@ -6,8 +6,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		 
-		/* 
-	 	Scanner sc = new Scanner(System.in) ;
+	    /* 
+	    Scanner sc = new Scanner(System.in) ;
 	    System.out.println("Enter Your Name :");
 	    String s = sc.nextLine() ;
 	    System.out.println("Hello " + s + " have a good day"); 
