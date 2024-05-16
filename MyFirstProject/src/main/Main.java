@@ -239,13 +239,13 @@ public class Main {
 		
 		//Do-While loop
 		
-		
+		/* 
 		int a = 1;
 		while(a<=10) { //Condition
 			System.out.println(a); //Work
 			a++; //Termination Condition
 		}
-		
+		*/
 	}
 	
 }
